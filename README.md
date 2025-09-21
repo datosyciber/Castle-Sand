@@ -9,6 +9,6 @@ El estado actual de este laboratorio es: En proceso.
 ### Información del perfil
 Mi perfil en KC7: [Vexariel](http://kc7cyber.com/profile/vexariel)
 
-Ranking global: 915
+Ranking global: 897
 
 Ranking Daily7: 53
